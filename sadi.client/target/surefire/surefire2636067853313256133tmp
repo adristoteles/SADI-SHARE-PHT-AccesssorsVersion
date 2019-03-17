@@ -1,0 +1,6 @@
+#surefire
+#Sun Oct 14 18:24:53 CEST 2018
+user.dir=C\:\\Users\\ADRIANJOSE\\workspace101\\sadi.client
+maven.javadoc.skip=true
+localRepository=C\:\\Users\\ADRIANJOSE\\.m2\\repository
+basedir=C\:\\Users\\ADRIANJOSE\\workspace101\\sadi.client

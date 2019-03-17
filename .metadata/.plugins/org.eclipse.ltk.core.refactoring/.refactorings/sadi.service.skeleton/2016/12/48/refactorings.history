@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;sadi.service.skeleton/src/main/resources/aquad.rdf&apos; to &apos;aquad.nq&apos;" description="Rename resource &apos;aquad.rdf&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/aquad.rdf" name="aquad.nq" stamp="1480853653553" updateReferences="true"/>
-</session>
