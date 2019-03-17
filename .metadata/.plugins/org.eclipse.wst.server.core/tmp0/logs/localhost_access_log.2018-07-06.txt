@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:12:09:09 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 33
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:12:09:09 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:12:09:14 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:12:09:20 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 380
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:19:00:49 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 33
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:19:00:49 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:19:00:54 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:19:00:59 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:19:01:04 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:19:01:09 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 380

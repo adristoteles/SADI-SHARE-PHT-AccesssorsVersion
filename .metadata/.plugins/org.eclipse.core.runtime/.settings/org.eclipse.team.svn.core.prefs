@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+externalMigrateFromAuthorizationDatabase/isMigrated=true
+migrateFromAuthorizationDatabase/isMigrated=true
+repositories/50b9f1d730210018135e9970a16dd7b6=50b9f1d730210018135e9970a16dd7b6;https\://github.com/adristoteles/share-ldf;https\://github.com/adristoteles/share-ldf;branches;tags;trunk;true;f837d846-5174-d949-ec64-ce57b7db7bff;https\://github.com/adristoteles/share-ldf;;false;;;0
+repositories/609dbf7f615f00171cb4e698f944feda=609dbf7f615f00171cb4e698f944feda;https\://github.com/LinkedDataFragments/Server.java;https\://github.com/LinkedDataFragments/Server.java;branches;tags;trunk;true;4fb60be6-eb61-0eb9-bf85-ce57b7db7bff;https\://github.com/LinkedDataFragments/Server.java;;false;;;0
+repositories/807ba934f87100171d10e0778c7a9d00=807ba934f87100171d10e0778c7a9d00;https\://github.com/wilkinsonlab/SemanticPHIbase;https\://github.com/wilkinsonlab/SemanticPHIbase;branches;tags;trunk;true;1f7f0fbb-c585-d248-4b39-ce57b7db7bff;https\://github.com/wilkinsonlab/SemanticPHIbase;;false;;;0
+repositories/80c3c3a0dca100161448bba146e2f0a6=80c3c3a0dca100161448bba146e2f0a6;https\://github.com/adristoteles/SADI-Core-Codebase;https\://github.com/adristoteles/SADI-Core-Codebase;branches;tags;trunk;true;cc1e3efa-8b06-87aa-39f7-ce57b7db7bff;https\://github.com/adristoteles/SADI-Core-Codebase;;false;;;0
+repositories/c096ea95607000171128a8aca7f9a579=c096ea95607000171128a8aca7f9a579;https\://github.com/LinkedDataFragments/Client.Java;https\://github.com/LinkedDataFragments/Client.Java;branches;tags;trunk;true;29329012-fe03-40b2-afa1-ce57b7db7bff;https\://github.com/LinkedDataFragments/Client.Java;;false;;;0
+repositories/d0ecd161bca100161448bba146e2f0a6=d0ecd161bca100161448bba146e2f0a6;https\://github.com/adristoteles/org.sadiframework-NewJena;https\://github.com/adristoteles/org.sadiframework-NewJena;branches;tags;trunk;true;da9fe208-0518-f0e9-f7b2-ce57b7db7bff;https\://github.com/adristoteles/org.sadiframework-NewJena;;false;;;0

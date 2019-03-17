@@ -1,0 +1,12 @@
+127.0.0.1 - - [29/Jun/2017:00:46:03 +0200] "GET / HTTP/1.1" 404 961
+0:0:0:0:0:0:0:1 - - [29/Jun/2017:00:47:42 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 33
+0:0:0:0:0:0:0:1 - - [29/Jun/2017:00:47:42 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [29/Jun/2017:00:47:47 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [29/Jun/2017:00:47:52 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [29/Jun/2017:00:47:57 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [29/Jun/2017:00:48:02 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [29/Jun/2017:00:48:08 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [29/Jun/2017:00:48:13 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [29/Jun/2017:00:48:18 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [29/Jun/2017:00:48:23 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [29/Jun/2017:00:48:28 +0200] "POST /cardioSHARE/query HTTP/1.1" 200 224
