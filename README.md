@@ -1,6 +1,8 @@
 # SADI-SHARE-PHT-AccesssorsVersion
 SADI-SHARE adaptition to use nanopubs, Accesors and Projections
 
+and follow the FAIR data principles.
+
 Most of the Accesors code is in SHAREKnowledgeBase
  
  
