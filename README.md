@@ -17,3 +17,7 @@ Model model = ModelFactory.createModelForGraph(ldfg);
 Example queries:
 
 SELECT ?p ?o WHERE { <http://dbpedia.org/resource/Barack_Obama> ?p ?o }
+
+
+
+Hola que tal.  Actualización
